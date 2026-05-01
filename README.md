@@ -1,23 +1,5 @@
 # Digits-n-Data-six-weeks-SQL-challenge-log
 
-That’s a great move! Putting your SQL projects on GitHub is one of the best ways to build a professional portfolio as a data analyst.
-
-Since your project has a "Mission" theme, you should make your README.md file look as professional and high-tech as your dashboards.
-
-📁 Suggested Repository Structure
-Keep your files organized so recruiters can easily navigate your work:
-
-SQL_Scripts/ (Store your .sql files for each week here)
-
-Dashboards/ (Include screenshots or links to your Power BI/Canva work)
-
-Documentation/ (The task descriptions and logic)
-
-README.md (The "Face" of your project)
-
-📝 GitHub README Template
-You can copy and paste this into your GitHub README.md file. It summarizes your experience and the skills you mastered during the challenge.
-
 🛡️ Mission: Six Weeks to Save Reality
 A SQL Challenge Portfolio | Digits n Data
 🌟 Project Overview
