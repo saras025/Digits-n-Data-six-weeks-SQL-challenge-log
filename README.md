@@ -15,6 +15,7 @@ Sequence Analysis: Utilizing the LEAD() Window Function to track attack patterns
 Data Aggregation: Applying SUM(), MIN(), and GROUP BY for geographic and financial insights.
 
 🕵️ Mission Glimpse
+o
 Weeks 1-2: Identified 8 elite defenders and pinpointed Africa as the most unstable region using subqueries.
 
 Weeks 3-4: Unmasked a security traitor (steve.coulson@shield.com) and traced a 1,600,000 financial transfer via complex JOINS.
